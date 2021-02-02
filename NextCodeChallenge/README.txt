@@ -1,0 +1,1 @@
+﻿Restore the NextCodeChallengeDb.bak file in the App_Data folder to your local SQL server instance. It could otherwise also be used as an .mdf source if you change the connection string in Models -> Entities -> NextCodeChallengeDbContext.cs
